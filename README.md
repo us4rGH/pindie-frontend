@@ -1,3 +1,10 @@
+Ссылка на репозиторий с фронтендом: https://github.com/us4rGH/pindie-frontend
+
+Ссылка на домен фронтенда: https://pindieenjoygames.nomoredomainswork.ru
+
+IP-адрес: 158.160.165.203
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
